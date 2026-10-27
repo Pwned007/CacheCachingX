@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+
+# scan output + harvested victim content / exploit PoCs — never commit a real target's data
+wcd_hunter_output/
